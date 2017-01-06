@@ -1,0 +1,12 @@
+c:\users\forma\documents\visual studio 2015\Projects\MP\MP\bin\Debug\MP.exe.config
+C:\Users\forma\Documents\Visual Studio 2015\Projects\MP\MP\bin\Debug\MP.exe
+C:\Users\forma\Documents\Visual Studio 2015\Projects\MP\MP\bin\Debug\MP.pdb
+C:\Users\forma\Documents\Visual Studio 2015\Projects\MP\MP\obj\Debug\MP.csprojResolveAssemblyReference.cache
+C:\Users\forma\Documents\Visual Studio 2015\Projects\MP\MP\obj\Debug\MP.Form1.resources
+C:\Users\forma\Documents\Visual Studio 2015\Projects\MP\MP\obj\Debug\MP.Properties.Resources.resources
+C:\Users\forma\Documents\Visual Studio 2015\Projects\MP\MP\obj\Debug\MP.csproj.GenerateResource.Cache
+C:\Users\forma\Documents\Visual Studio 2015\Projects\MP\MP\obj\Debug\MP.exe
+C:\Users\forma\Documents\Visual Studio 2015\Projects\MP\MP\obj\Debug\MP.pdb
+E:\fcis\4st\MP\Tasks\MP Team #12\MP\bin\Debug\MP.exe.config
+E:\fcis\4st\MP\Tasks\MP Team #12\MP\obj\Debug\MP.exe
+E:\fcis\4st\MP\Tasks\MP Team #12\MP\obj\Debug\MP.pdb
